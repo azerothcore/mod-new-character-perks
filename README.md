@@ -16,6 +16,10 @@
     
     #############################################################################################################
     
+# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
+## mod-new-character-perks
+- Latest build status with azerothcore: [![Build Status](https://github.com/azerothcore/mod-new-character-perks/workflows/core-build/badge.svg?branch=master&event=push)](https://github.com/azerothcore/mod-new-character-perks)
+
 ### Description
 
 This module performs several actions on new players. It has the option to give new players BOA starting gear,
